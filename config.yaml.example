@@ -1,0 +1,8 @@
+# Telegram bot token
+bot_token: "BOT_TOKEN_HERE"
+
+# ID of group where bot will react to messages
+target_group: -12345678
+
+# Folder to detect secretlounge-ng databases in
+database_path: "."
